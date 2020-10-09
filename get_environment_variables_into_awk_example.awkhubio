@@ -1,0 +1,11 @@
+# Example of getting shell environment variables into awk.
+# Created by Tony Casanova October 8, 2020.  
+BEGIN{
+ThisTool="awkhubio"
+for ( env_variable in ENVIRON ) {
+printf("%s_%s_%s\n", ThisTool, env_variable, ENVIRON[env_variable] )
+}
+}
+
+{
+}
