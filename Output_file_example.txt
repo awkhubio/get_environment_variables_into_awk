@@ -1,0 +1,26 @@
+# awk -f get_environment_variables_into_awk_example.awkhubio  one_row_input_example
+
+
+awkhubio_AWKPATH_.:/usr/share/awk
+awkhubio_OLDPWD_/root
+awkhubio_AWKLIBPATH_/usr/lib/arm-linux-gnueabihf/gawk
+awkhubio_LANG_C.UTF-8
+awkhubio_XDG_RUNTIME_DIR_/run/user/0
+awkhubio_USER_root
+awkhubio___/usr/bin/awk
+awkhubio_TERM_xterm-256color
+awkhubio_SHELL_/bin/bash
+awkhubio_XDG_SESSION_ID_14
+awkhubio_LESSCLOSE_/usr/bin/lesspipe %s %s
+awkhubio_SSH_CONNECTION_192.168.1.178 52826 192.168.1.188 22
+awkhubio_LESSOPEN_| /usr/bin/lesspipe %s
+awkhubio_PATH_/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+awkhubio_MAIL_/var/mail/root
+awkhubio_SSH_CLIENT_192.168.1.178 52826 22
+awkhubio_DBUS_SESSION_BUS_ADDRESS_unix:path=/run/user/0/bus
+awkhubio_SSH_TTY_/dev/pts/0
+awkhubio_HOME_/root
+awkhubio_PWD_/root/Awkhub
+awkhubio_LOGNAME_root
+awkhubio_SHLVL_1
+awkhubio_LS_COLORS_rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:
